@@ -1,1 +1,1 @@
-worker: python telegram_gcloner/telegram_gcloner.py
+worker: python3 telegram_gcloner/telegram_gcloner.py
