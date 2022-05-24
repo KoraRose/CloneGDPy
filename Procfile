@@ -1,1 +1,1 @@
-worker: ./start.sh
+worker: python3 telegram_gcloner/telegram_gcloner.py
